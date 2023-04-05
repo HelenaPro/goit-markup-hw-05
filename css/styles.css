@@ -666,7 +666,7 @@ button {
 }
 
 .is-hidden .modal {
-  transform: translate(-50%, -50%) scaleY(0);
+  transform: translate(-50%, -50%) scaleY(0) opacity (0);
 }
 
 .is-hidden {
