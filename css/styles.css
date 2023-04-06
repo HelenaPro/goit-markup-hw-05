@@ -658,6 +658,7 @@ button {
 .modal-close:hover .close,
 .modal-close:focus .close {
   fill: #fff;
+  background-color: #404BBF;
 }
 
 .modal-close-icon {
